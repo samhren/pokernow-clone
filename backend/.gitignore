@@ -1,0 +1,35 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Configuration files
+*.cfg
+*.ini
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite3
+
+# Coverage reports
+.coverage
+*.cover
+
+# Egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
